@@ -66,5 +66,4 @@ public class App
 	public static void errorSeperator() {
 		System.out.println("----------------------------------------------------------------");
 	}
-
 }
